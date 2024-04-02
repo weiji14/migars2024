@@ -1,0 +1,10 @@
+name: wxfm
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - conda-lock~=2.5.6
+  - gmt~=6.5.0
+  - jupyterlab~=4.1.5
+  - pygmt~=0.11.0
+  - python=3.11.8
